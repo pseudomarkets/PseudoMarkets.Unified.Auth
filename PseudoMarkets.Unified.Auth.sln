@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PseudoMarkets.Unified.Auth", "PseudoMarkets.Unified.Auth\PseudoMarkets.Unified.Auth.csproj", "{77033830-EA38-40C0-AC30-6AE4D4C8FF9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PseudoMarkets.Unified.AuthLib", "PseudoMarkets.Unified.AuthLib\PseudoMarkets.Unified.AuthLib.csproj", "{7E9D66B8-06E5-4D16-8B69-7BB4EA97F179}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77033830-EA38-40C0-AC30-6AE4D4C8FF9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77033830-EA38-40C0-AC30-6AE4D4C8FF9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77033830-EA38-40C0-AC30-6AE4D4C8FF9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77033830-EA38-40C0-AC30-6AE4D4C8FF9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E9D66B8-06E5-4D16-8B69-7BB4EA97F179}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E9D66B8-06E5-4D16-8B69-7BB4EA97F179}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E9D66B8-06E5-4D16-8B69-7BB4EA97F179}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E9D66B8-06E5-4D16-8B69-7BB4EA97F179}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72288BBD-3AF2-405C-A900-3A3A57C7398D}
+	EndGlobalSection
+EndGlobal
